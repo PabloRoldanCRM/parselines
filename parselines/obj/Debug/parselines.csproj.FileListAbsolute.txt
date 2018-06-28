@@ -1,0 +1,10 @@
+c:\users\rhino systems\source\repos\parselines\parselines\obj\Debug\parselines.csprojAssemblyReference.cache
+c:\users\rhino systems\source\repos\parselines\parselines\obj\Debug\parselines.csproj.CoreCompileInputs.cache
+c:\users\rhino systems\source\repos\parselines\parselines\bin\Debug\parselines.exe.config
+c:\users\rhino systems\source\repos\parselines\parselines\bin\Debug\parselines.exe
+c:\users\rhino systems\source\repos\parselines\parselines\bin\Debug\parselines.pdb
+c:\users\rhino systems\source\repos\parselines\parselines\bin\Debug\IllyumL2T.Core.dll
+c:\users\rhino systems\source\repos\parselines\parselines\bin\Debug\IllyumL2T.Core.pdb
+c:\users\rhino systems\source\repos\parselines\parselines\obj\Debug\parselines.csproj.CopyComplete
+c:\users\rhino systems\source\repos\parselines\parselines\obj\Debug\parselines.exe
+c:\users\rhino systems\source\repos\parselines\parselines\obj\Debug\parselines.pdb
